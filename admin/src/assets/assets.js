@@ -6,6 +6,9 @@ import upload_area from './upload.png'
 import parcel from './parcel.png'
 import parcel_icon from './parcel_icon.png'
 
+export const url = "https://sk-backend-17ec.onrender.com"
+export const currency = "₹"
+
 export const assets={
     logo,
     add_icon,
